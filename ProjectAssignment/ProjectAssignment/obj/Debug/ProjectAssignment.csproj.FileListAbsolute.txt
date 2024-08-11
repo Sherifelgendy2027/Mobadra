@@ -1,0 +1,14 @@
+D:\C# mobadra\ProjectAssignment\ProjectAssignment\bin\Debug\ProjectAssignment.exe.config
+D:\C# mobadra\ProjectAssignment\ProjectAssignment\bin\Debug\ProjectAssignment.exe
+D:\C# mobadra\ProjectAssignment\ProjectAssignment\bin\Debug\ProjectAssignment.pdb
+D:\C# mobadra\ProjectAssignment\ProjectAssignment\obj\Debug\ProjectAssignment.csproj.AssemblyReference.cache
+D:\C# mobadra\ProjectAssignment\ProjectAssignment\obj\Debug\ProjectAssignment.LoginFrm.resources
+D:\C# mobadra\ProjectAssignment\ProjectAssignment\obj\Debug\ProjectAssignment.Properties.Resources.resources
+D:\C# mobadra\ProjectAssignment\ProjectAssignment\obj\Debug\ProjectAssignment.csproj.GenerateResource.cache
+D:\C# mobadra\ProjectAssignment\ProjectAssignment\obj\Debug\ProjectAssignment.csproj.CoreCompileInputs.cache
+D:\C# mobadra\ProjectAssignment\ProjectAssignment\obj\Debug\ProjectAssignment.exe
+D:\C# mobadra\ProjectAssignment\ProjectAssignment\obj\Debug\ProjectAssignment.pdb
+D:\C# mobadra\ProjectAssignment\ProjectAssignment\obj\Debug\ProjectAssignment.CreateUserfrm.resources
+D:\C# mobadra\ProjectAssignment\ProjectAssignment\obj\Debug\ProjectAssignment.MainFrm.resources
+D:\C# mobadra\ProjectAssignment\ProjectAssignment\obj\Debug\ProjectAssignment.InboxFrm.resources
+D:\C# mobadra\ProjectAssignment\ProjectAssignment\obj\Debug\ProjectAssignment.SendMessagefrm.resources

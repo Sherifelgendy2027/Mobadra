@@ -1,0 +1,14 @@
+D:\C# mobadra\DelegateTask\DelegateTask\bin\Debug\net8.0\DelegateTask.exe
+D:\C# mobadra\DelegateTask\DelegateTask\bin\Debug\net8.0\DelegateTask.deps.json
+D:\C# mobadra\DelegateTask\DelegateTask\bin\Debug\net8.0\DelegateTask.runtimeconfig.json
+D:\C# mobadra\DelegateTask\DelegateTask\bin\Debug\net8.0\DelegateTask.dll
+D:\C# mobadra\DelegateTask\DelegateTask\bin\Debug\net8.0\DelegateTask.pdb
+D:\C# mobadra\DelegateTask\DelegateTask\obj\Debug\net8.0\DelegateTask.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# mobadra\DelegateTask\DelegateTask\obj\Debug\net8.0\DelegateTask.AssemblyInfoInputs.cache
+D:\C# mobadra\DelegateTask\DelegateTask\obj\Debug\net8.0\DelegateTask.AssemblyInfo.cs
+D:\C# mobadra\DelegateTask\DelegateTask\obj\Debug\net8.0\DelegateTask.csproj.CoreCompileInputs.cache
+D:\C# mobadra\DelegateTask\DelegateTask\obj\Debug\net8.0\DelegateTask.dll
+D:\C# mobadra\DelegateTask\DelegateTask\obj\Debug\net8.0\refint\DelegateTask.dll
+D:\C# mobadra\DelegateTask\DelegateTask\obj\Debug\net8.0\DelegateTask.pdb
+D:\C# mobadra\DelegateTask\DelegateTask\obj\Debug\net8.0\DelegateTask.genruntimeconfig.cache
+D:\C# mobadra\DelegateTask\DelegateTask\obj\Debug\net8.0\ref\DelegateTask.dll
